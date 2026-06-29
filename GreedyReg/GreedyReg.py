@@ -15,6 +15,7 @@ from slicer.ScriptedLoadableModule import *
 
 from GreedyReg_Method.Logic import GreedyRegLogic
 
+# Eduardo 
 # ===== Logging Configuration =====
 logger = logging.getLogger("GreedyReg")
 logger.setLevel(logging.INFO)
